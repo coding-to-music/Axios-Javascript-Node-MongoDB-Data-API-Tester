@@ -1,7 +1,7 @@
 {
-  "name": "realm-mongodb-task-tracker-app",
+  "name": "Axios-Javascript-Node-MongoDB-Data-API-Tester",
   "version": "1.0.0",
-  "description": "",
+  "description": "https://docs.mongodb.com/realm/tutorial/realm-app/#std-label-tutorial-task-tracker-create-realm-app",
   "main": "main.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
@@ -9,17 +9,18 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/coding-to-music/Realm-MongoDB-Task-Tracker-App.git"
+    "url": "git+https://github.com/coding-to-music/Axios-Javascript-Node-MongoDB-Data-API-Tester.git"
   },
   "keywords": [],
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/coding-to-music/Realm-MongoDB-Task-Tracker-App/issues"
+    "url": "https://github.com/coding-to-music/Axios-Javascript-Node-MongoDB-Data-API-Tester/issues"
   },
-  "homepage": "https://github.com/coding-to-music/Realm-MongoDB-Task-Tracker-App#readme",
+  "homepage": "https://github.com/coding-to-music/Axios-Javascript-Node-MongoDB-Data-API-Tester#readme",
   "dependencies": {
     "axios": "^0.25.0",
     "dotenv": "^14.3.2"
-  }
+  },
+  "devDependencies": {}
 }
